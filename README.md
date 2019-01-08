@@ -40,6 +40,6 @@ By the use a computer eqquiped with a NVIDIA GTX 780ti graphic card and processo
      
  *Using the speedup formula = secuential_time / parallel_time
  
- ## Author
+ ## AUTHOR
 
 * **Daniel Lopez Bustillo** - *PARALLEL PERFORMING* - (https://github.com/DanielLBustillo)
