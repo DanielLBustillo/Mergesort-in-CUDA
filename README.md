@@ -1,6 +1,6 @@
 # STUDY OF IMPLEMENTATIONS OF MERGESORT ALGORITHM
 
-Implementation of short version of Mergesort algorithm using CUDA Framework. It contains two versions for the algorithm: 
+Implementation of short version of Mergesort algorithm using CUDA Framework. It contains two computational ways for the algorithm: 
 one of them developed using CUDA and the other using C language. It also includes the time of execeution of each version for 
 creating a map of performance. 
 
