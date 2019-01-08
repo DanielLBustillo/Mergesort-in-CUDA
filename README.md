@@ -42,4 +42,4 @@ By the use a computer eqquiped with a NVIDIA GTX 780ti graphic card and processo
  
  ## AUTHOR
 
-* **Daniel Lopez Bustillo** - *PARALLEL PERFORMING* - (https://github.com/DanielLBustillo)
+* **Daniel Lopez Bustillo** - (https://github.com/DanielLBustillo)
